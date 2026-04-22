@@ -1,0 +1,2 @@
+wavs/cc.wav.wav filter=lfs diff=lfs merge=lfs -text
+vids/bea.mp4 filter=lfs diff=lfs merge=lfs -text
